@@ -1,0 +1,23 @@
+{
+  "name": "playlist-generator",
+  "version": "0.0.1",
+  "description": "command line tool to export playlist from Google Sheet to Spotify/Apple Music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koh-handy/playlist-generator.git"
+  },
+  "author": "ken oh (koh)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koh-handy/playlist-generator/issues"
+  },
+  "homepage": "https://github.com/koh-handy/playlist-generator#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "lodash": "^4.17.11"
+  }
+}
